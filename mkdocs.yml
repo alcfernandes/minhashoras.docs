@@ -7,7 +7,9 @@ nav:
         - 'Projects': features/projects.md
     - 'API Reference': minhashoras_api/api_project.md
     - 'Web App Reference': minhashoras_app/app_project.md
-    - 'Documentation': minhashoras_docs/docs_project.md
+    - Documentation:
+          - 'MkDocs': minhashoras_docs/docs_project.md
+          - 'Usage Examples': minhashoras_docs/mkdocs_usage_examples.md
 theme:
     name: material
     language: pt-BR

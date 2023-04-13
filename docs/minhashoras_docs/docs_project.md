@@ -14,8 +14,3 @@
         ...       # Other markdown pages, images and other files.
 
 
-## Macro test
-Testing use of macros in markdown files:
-{{ group_test.test_macro }}
-
-{% include "templates/test_template.md" %}
