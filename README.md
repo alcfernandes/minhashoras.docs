@@ -1,4 +1,5 @@
 # MinhasHoras Documentation
+[![Documentation Status](https://readthedocs.org/projects/minhashoras/badge/?version=latest)](https://minhashoras.readthedocs.io/en/latest/?badge=latest)
 
 Available at
 https://minhashoras.readthedocs.io
