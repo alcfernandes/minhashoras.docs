@@ -14,10 +14,8 @@ theme:
 
 plugins:
     - macros
+    - search
 
 extra:
     group_test:
         test_macro: This is a macro test value.
-    search:
-        language: 'en'
-        provider: 'readthedocs'
