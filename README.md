@@ -1,7 +1,7 @@
 # MinhasHoras Documentation
 
 Available at
-https://minhashoras.com.br/docs
+https://minhashoras.readthedocs.io
 
 ## Building
 
