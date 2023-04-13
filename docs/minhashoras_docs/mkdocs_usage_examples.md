@@ -6,3 +6,14 @@ Testing use of macros in markdown files:
 
 ## Templates
 {% include "templates/test_template.md" %}
+
+## Mermaid Diagrams
+```mermaid
+flowchart
+	. --> A
+	
+	A --> B
+	A --> C
+	A --> D
+	A --> E
+```
