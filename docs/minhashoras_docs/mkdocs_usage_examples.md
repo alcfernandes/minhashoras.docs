@@ -17,3 +17,5 @@ flowchart
 	A --> D
 	A --> E
 ```
+## emojis
+:smile: :+1: :tada: :rocket: :metal: 🤖
