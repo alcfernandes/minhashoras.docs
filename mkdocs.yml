@@ -11,3 +11,10 @@ nav:
 theme:
     name: material
     language: pt-BR
+
+plugins:
+    - macros
+
+extra:
+    group_test:
+        test_macro: This is a macro test value.
