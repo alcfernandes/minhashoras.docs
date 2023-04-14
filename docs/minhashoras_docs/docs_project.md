@@ -1,5 +1,8 @@
 # MinhasHoras API Documentation
 
+## Teste
+Esse é um teste.
+
 ## Commands
 
 * `mkdocs serve` - Start the live-reloading docs server.
